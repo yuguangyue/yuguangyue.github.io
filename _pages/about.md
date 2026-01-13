@@ -8,9 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am currently a Machine Learning Researcher at the [Cortex Applied Research](https://cortex.twitter.com/) team at Twitter, with a focus on recommender system and reinforcement learning. Prior to Twitter, I obtained my PhD from [Statistics and Data Science Department](https://https://stat.utexas.edu/) in [University of Texas at Austin](https://https://www.utexas.edu/), supervised by [Dr.Mingyuan Zhou](https://mingyuanzhou.github.io/). My research interest is Bayesian statistics, with applications including **Reinforcement Learning** and **Generative Models**. I am also interested in **optimization**. 
-
-In my spare time, I like playing **tennis** and **piano**.
+I am currently a Founding Member of Technical Staff at a startup: [Player2](https://player2.game/). I focused on developing real-time action agent that can interact with commercial game environment and play with human. Please checkout the game-play videos from our model [here](https://elefant-ai.github.io/open-p2p/). We released the research details in the [paper](https://arxiv.org/abs/2601.04575) and also release all the [dataset](https://huggingface.co/datasets/elefantai/p2p-full-data). Prior to Player2, I worked at Amazon AGI team as an Applied Scientist, focused on the pretraining and SFT of LLM. Before joining Amazon, I worked as a Machine Learning Researcher at the [Cortex Applied Research](https://cortex.twitter.com/) team at Twitter, with a focus on recommender system and reinforcement learning. I obtained my PhD from [Statistics and Data Science Department](https://https://stat.utexas.edu/) in [University of Texas at Austin](https://https://www.utexas.edu/), supervised by [Dr.Mingyuan Zhou](https://mingyuanzhou.github.io/). Myresearch interest are **vision-language-action model**, **reinforcement learning** and **Multimodal LLM**.
 
 
 Education
@@ -28,7 +26,11 @@ Publications
 
 Work experience
 ======
-* Twitter: Machine Learning Researcher (From June 2021)
+* Player2: Founding Member of Technical Staff (May 2024 - Now)
+  * VLA model for game playing ([website](https://elefant-ai.github.io/open-p2p/))
+* Amazon: Applied Scientist (Sept 2022 - May 2024)
+  * SFT and Pretraining of LLM
+* Twitter: Machine Learning Researcher (June 2021 - Sept 2022)
   * Work on building recommender for the new [explore page](https://twitter.com/TwitterSupport/status/1468619385472438279?s=20)
   * Improve Ads ranking model with multitask learning techniques
   * Build simulation systems with JAX
@@ -39,14 +41,5 @@ Work experience
 * Bytedance: Research Intern (Winter 2019)
   * Build Bayesian testing platform
   * Tune hyperparameter with Bayesian Optimization
-
-* Twitter: Data Scientist Intern (Summer 2019)
-  * Metric clustering
-  
-* Twitter: Data Scientist Intern (Summer 2018)
-  * CUPED extension
-  
-* VMWare: R&D Intern (Summer 2017)
-  * Develop bug auto-triage tool
 
 
